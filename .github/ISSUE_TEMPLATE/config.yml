@@ -1,5 +1,3 @@
-# 在此粘贴你的 config.yaml...
-# 或拖拽文件到编辑器区域
-# 或点击右上角"加载官网最新配置"
-    - id: "douyin"
-      name: "抖音"
+platforms:
+  - id: "douyin"
+    name: "抖音"
